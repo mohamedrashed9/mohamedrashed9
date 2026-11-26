@@ -2,6 +2,8 @@
 
 **Frontend Developer** building fast, responsive, bilingual (Arabic / English) websites.
 
+📍 Egypt · 📧 [mohamed.rashed.dev@gmail.com](mailto:mohamed.rashed.dev@gmail.com)
+
 ## Tech
 
 [![Tech](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,vercel)](https://skillicons.dev)
